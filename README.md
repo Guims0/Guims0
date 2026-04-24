@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guims0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guims0&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guims0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guims0&layout=compact&langs_count=7&theme=github_dark&bg_color=0D1117&hide_border=true"/>
 </div>
 
 <br>
@@ -37,9 +37,8 @@
 ---
 
 ## 🔭 Projetos em Destaque
-
+* ⛅ **[Clima API](https://github.com/Guims0/api-clima):** Desenvolvido com **Java e Spring Boot**, consome APIs externas (OpenWeather e GeoIP), processa previsão do tempo e possui tratamento global de exceções e histórico em **MySQL**.
 * 🚀 **[Sistema de Gestão de Loja](https://github.com/Guims0/SistemaGestaoLoja):** Aplicação focada no gerenciamento comercial, controlando fluxos essenciais de um estabelecimento.
-* 🛒 **[Carrinho de Compras](https://github.com/Guims0/Carrinho-de-Compras):** Projeto focado na lógica de e-commerce, manipulação de itens e cálculo de pedidos.
 * 🛠️ **[Sistema 1.0](https://github.com/Guims0/Sistema1.0):** Base de sistema estruturada para aplicações escaláveis, focando em organização de código e funcionalidades iniciais.
 
 ---
