@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=128EE8&center=true&vCenter=true&random=false&width=450&lines=Desenvolvedor+de+Software;Estudante+de+ADS;Reformulando+meu+GitHub" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Guims0&color=128EE8&style=for-the-badge&label=Visitas+ao+Perfil" alt="Contador de Visitas" />
+</p>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guims0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0D1117&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guims0&layout=compact&langs_count=7&theme=github_dark&bg_color=0D1117&hide_border=true"/>
@@ -37,6 +41,8 @@
 ---
 
 ## 🔭 Projetos em Destaque
+
+* 📅 **[Agenda Fácil API](https://github.com/Guims0/agenda-facil):** API RESTful transacional para marketplace de agendamentos desenvolvida em **Java 21 e Spring Boot 3**. Apresenta regras de negócio complexas como travas anti-overbooking, validação de expediente, controle de acessos modular (Spring Security + JWT) e uma carteira digital com divisões automatizadas de pagamentos (taxação de 5% e estornos automatizados). Projeto validado por testes unitários com **JUnit 5 e Mockito** e documentado via **Swagger**.
 * ⛅ **[Clima API](https://github.com/Guims0/api-clima):** Desenvolvido com **Java e Spring Boot**, consome APIs externas (OpenWeather e GeoIP), processa previsão do tempo e possui tratamento global de exceções e histórico em **MySQL**.
 * 🚀 **[Sistema de Gestão de Loja](https://github.com/Guims0/SistemaGestaoLoja):** Aplicação focada no gerenciamento comercial, controlando fluxos essenciais de um estabelecimento.
 * 🛠️ **[Sistema 1.0](https://github.com/Guims0/Sistema1.0):** Base de sistema estruturada para aplicações escaláveis, focando em organização de código e funcionalidades iniciais.
@@ -46,7 +52,6 @@
 ## 📫 Como me encontrar
 
 <div style="display: inline_block">
-  <a href="mailto:gui.desousa02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-martins-71b422406" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gui.desousa02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilherme-martins-71b422406" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
