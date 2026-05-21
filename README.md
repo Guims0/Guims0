@@ -42,10 +42,9 @@
 
 ## 🔭 Projetos em Destaque
 
-* 📅 **[Agenda Fácil API](https://github.com/Guims0/agenda-facil):** API RESTful transacional para marketplace de agendamentos desenvolvida em **Java 21 e Spring Boot 3**. Apresenta regras de negócio complexas como travas anti-overbooking, validação de expediente, controle de acessos modular (Spring Security + JWT) e uma carteira digital com divisões automatizadas de pagamentos (taxação de 5% e estornos automatizados). Projeto validado por testes unitários com **JUnit 5 e Mockito** e documentado via **Swagger**.
+* 📅 **[Agenda Fácil](https://github.com/Guims0/agenda-facil):** API REST de agendamentos desenvolvida em **Java e Spring Boot **. Apresenta regras de negócio como travas anti-overbooking, validação de expediente, controle de acessos modular (Spring Security + JWT) e uma carteira digital com divisões automatizadas de pagamentos (taxação de 5% e estornos automatizados). Projeto validado por testes unitários com **JUnit 5 e Mockito** e documentado via **Swagger**.
 * ⛅ **[Clima API](https://github.com/Guims0/api-clima):** Desenvolvido com **Java e Spring Boot**, consome APIs externas (OpenWeather e GeoIP), processa previsão do tempo e possui tratamento global de exceções e histórico em **MySQL**.
 * 🚀 **[Sistema de Gestão de Loja](https://github.com/Guims0/SistemaGestaoLoja):** Aplicação focada no gerenciamento comercial, controlando fluxos essenciais de um estabelecimento.
-* 🛠️ **[Sistema 1.0](https://github.com/Guims0/Sistema1.0):** Base de sistema estruturada para aplicações escaláveis, focando em organização de código e funcionalidades iniciais.
 
 ---
 
